@@ -48,7 +48,7 @@ a{
 .bar a{
     color: grey;
 }
-#ACTIVE, a:hover{
+a.ACTIVE, a:hover{
     color: white;
     font-size: 1.3rem;
     text-transform: uppercase;
