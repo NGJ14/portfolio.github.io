@@ -179,6 +179,17 @@ a.ACTIVE, a:hover{
 }
 .textInfo{
     height: 60%;
+    display: flex;
+    font-size: 1.5rem;
+    margin: 0 10vw;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: olive;
+    flex-direction: column;
+}
+.regularText{
+    color: #000;
 }
 .pplBox{
     height: 40%;
