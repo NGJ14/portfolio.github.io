@@ -244,6 +244,11 @@ a{
 
 
 
+@media screen and (max-height:450px){
+    body{
+        opacity: 0.01;
+    }
+}
 
 
 
