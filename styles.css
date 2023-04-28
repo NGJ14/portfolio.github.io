@@ -61,11 +61,19 @@ a.ACTIVE, a:hover{
     text-align: center;
     background: darkolivegreen;
     color: black;
-    font-size: 3.3rem;
+    font-size: 5rem;
     width: 97%;
     margin: 0 1.5%;
-    border-bottom-right-radius: 2px;
-    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    flex-direction: column;
+}
+.webX{
+    font-size: 7rem;
+}
+.tech{
+    font-size: 2rem;
+    letter-spacing: 10px;
 }
 .job{
     height: 30%;
@@ -189,7 +197,7 @@ a.ACTIVE, a:hover{
     flex-direction: column;
 }
 .regularText{
-    color: #000;
+    color: white;
 }
 .pplBox{
     height: 40%;
