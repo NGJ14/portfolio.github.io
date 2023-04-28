@@ -71,6 +71,10 @@ a.ACTIVE, a:hover{
 .webX{
     font-size: 7rem;
 }
+.web{
+    font-size: 6rem;
+    color: white;
+}
 .tech{
     font-size: 2rem;
     letter-spacing: 10px;
@@ -83,7 +87,7 @@ a.ACTIVE, a:hover{
     align-items: center;
     text-align: center;
     font-size: 1.8rem;
-    color: white;
+    color: rgb(192, 192, 192);
     letter-spacing: 10px;
 }
 .gallery{
